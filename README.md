@@ -11,7 +11,7 @@ A proposta é facilitar a compreensão da lei seca, a revisão dos pontos essenc
 
 📚 O que você encontrará aqui
 
-O repositório reúne referências e materiais organizados em cinco categorias:
+O repositório reúne referências e materiais organizados em várias categorias:
 
 Editais e provas: programas oficiais, provas anteriores e gabaritos.
 
